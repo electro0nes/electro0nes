@@ -1,6 +1,6 @@
 <img width=1200 height=500 align="center" src="https://github.com/moeinerfanian/github-readme/blob/main/Studio_Project%20(1).gif?raw=true">
 <hr>
-
+![](https://komarev.com/ghpvc/?username=moeinerfaniancolor=green)
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=moeinerfanian&show_icons=true&theme=radical">
 
 <h1 align="left">Languages and Tools</h1>
