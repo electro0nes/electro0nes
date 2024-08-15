@@ -1,5 +1,5 @@
 <div align="center">
-<img widhth=77% src="https://i2.wp.com/media.tenor.com/0ZNy-QfbcBYAAAAM/anime.gif" />
+<img widhth=77% src="https://i.pinimg.com/originals/52/b6/6b/52b66b327440dff07b6dde089ad6136c.gif" />
 <br>
 <br>
 </p>
