@@ -1,27 +1,32 @@
-<img width=1200 height=500 align="center" src="https://github.com/moeinerfanian/github-readme/blob/main/Studio_Project%20(1).gif?raw=true">
-<hr>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=moeinerfanian&show_icons=true&theme=radical">
+<h1 align="center">Hi 👋, I'm moein</h1>
+<h3 align="center">Bug Hunter,pentester, Developer</h3>
 
-<h1 align="left">Languages and Tools</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moeinerfanian&label=Profile%20views&color=0e75b6&style=flat" alt="moeinerfanian" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moeinerfanian" alt="moeinerfanian" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/moeinerfanian" target="blank"><img src="https://img.shields.io/twitter/follow/moeinerfanian?logo=twitter&style=for-the-badge" alt="moeinerfanian" /></a> </p>
+
+- 💬 Ask me about **python, hacking,javascript**
+
+- 📄 Know about my experiences [https://voorivex.academy/profile/moeinerfanian/](https://voorivex.academy/profile/moeinerfanian/)
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-<img alt="Lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white">
-<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-<img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">
-<img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-<img alt="Sql Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-<img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
+<a href="https://twitter.com/moeinerfanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moeinerfanian" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moeinerfanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moeinerfanian" height="30" width="40" /></a>
+<a href="https://fb.com/moeinerfanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moeinerfanian" height="30" width="40" /></a>
+<a href="https://instagram.com/moeinerfanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moeinerfanian" height="30" width="40" /></a>
+<a href="https://medium.com/moeinerfanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="moeinerfanian" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/moeinerfanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="moeinerfanian" height="30" width="40" /></a>
+<a href="https://discord.gg/moeinn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="moeinn" height="30" width="40" /></a>
 </p>
-<hr>
-<h1>My Social</h1>
-<p>
-<a href="https://discord.gg/bNJpqeM42j" align="left" target="_blank"><img alt="https://discord.gg/bNJpqeM42j" href="#" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"><a>
-<a href="https://www.instagram.com/moeinerfanian/" align="left" target="_blank"><img alt="https://www.instagram.com/moeinerfanian/" href="#" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"><a>
-<a href="https://www.linkedin.com/in/moein-erfanian-55442a243/" align="left" target="_blank"><img alt="https://www.linkedin.com/in/moein-erfanian-55442a243/" href="#" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"><a>
-<a href="https://t.me/MoeinErfanian" align="left" target="_blank"><img alt="https://t.me/MoeinErfanian" href="#" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"><a>
-<a href="https://twitter.com/MoeinErfanian" align="left" target="_blank"><img alt="https://twitter.com/MoeinErfanian" href="#" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"><a>
-</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moeinerfanian&show_icons=true&locale=en&layout=compact" alt="moeinerfanian" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moeinerfanian&show_icons=true&locale=en" alt="moeinerfanian" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moeinerfanian&" alt="moeinerfanian" /></p>
