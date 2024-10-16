@@ -8,7 +8,6 @@
 <h1 align="center">Hi 👋, I'm moein</h1>
 <h3 align="center">Bug Hunter,pentester, Developer</h3>
 
-- 💬 Ask me about **python, hacking,javascript**
 
 - 📄 Know about my experiences [https://voorivex.academy/profile/moeinerfanian/](https://voorivex.academy/profile/moeinerfanian/)
 
