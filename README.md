@@ -9,7 +9,7 @@
 <h3 align="center">Bug Hunter,pentester, Developer</h3>
 
 
-- 📄 Know about my experiences [https://voorivex.academy/profile/moeinerfanian/](https://voorivex.academy/profile/moeinerfanian/)
+- 📄 Know about me [https://linktr.ee/electro0ne/](https://linktr.ee/electro0ne/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
