@@ -1,7 +1,7 @@
 <div align="center">
-<img widhth=77% src="https://i.pinimg.com/originals/52/b6/6b/52b66b327440dff07b6dde089ad6136c.gif" />
+<img widhth=77% src="https://github.com/user-attachments/assets/32958649-3b74-4c42-86ea-cb0ee676d326" />
 <br>
-<br>
+
 </p>
 
 
